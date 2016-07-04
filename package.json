@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lpera77/firstbuilder#readme",
   "dependencies": {
-    "node-sass": "^3.8.0"
+    "node-sass": "^3.8.0",
+    "postcss-cli": "^2.5.2"
   }
 }
